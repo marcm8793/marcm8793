@@ -1,4 +1,3 @@
-<img src="![dino](https://github.com/marcm8793/marcm8793/assets/139041349/54a42678-c0c3-4cf6-97bb-21b679426274)" width="250" height="250"/>
 # 💫 Hello
 
 # 💻 Tech Stack:
