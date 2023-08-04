@@ -1,4 +1,4 @@
-<img src="[/images/output/video1.gif](https://github.com/marcm8793/marcm8793/assets/139041349/5a269404-be27-43fc-86f1-1a31a3703c5c)" width="250" height="250"/>
+<img src="![dino](https://github.com/marcm8793/marcm8793/assets/139041349/54a42678-c0c3-4cf6-97bb-21b679426274)" width="250" height="250"/>
 # 💫 Hello
 
 # 💻 Tech Stack:
@@ -7,3 +7,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=marcm8793&icon=8&color=1)](https://visitcount.itsvg.in)
 
+![dino](https://github.com/marcm8793/marcm8793/assets/139041349/54a42678-c0c3-4cf6-97bb-21b679426274)
