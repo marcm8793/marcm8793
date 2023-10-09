@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 
-###
 
 <div align="center">
   
@@ -68,12 +67,10 @@
    </div>
    </div>
 
-###
-###
-
-<div align="center">
-
-![Vidéo sans titre (2)](https://github.com/marcm8793/marcm8793/assets/139041349/d0d05ff4-1725-4ac3-abec-3764e1737f3f)
+<hr>
+<div align="center">  
+  
+  ![Dino2](https://github.com/marcm8793/marcm8793/assets/139041349/07e51c9b-cc29-4a4f-bcd2-6408c7351858)
 </div>
 
 
