@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 
 
+
 <div align="center">
   
   <div align="center">
@@ -15,8 +16,6 @@
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -66,6 +65,11 @@
   <img width="12" />
    </div>
    </div>
+
+<div align="center" >
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcm8793&show_icons=true&locale=en&layout=compact" alt="marcm8793" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcm8793&" alt="marcm8793" /></p>
+</div>
 
 <hr>
 <div align="center">  
