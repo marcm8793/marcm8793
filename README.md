@@ -53,13 +53,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcm8793&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
 </div>
 
-## 🌐 Socials:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marc-mansour-1b938496/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
 <hr>
 <div align="center">  
