@@ -2,74 +2,63 @@
 
 
 
+# 💻 Tech Stack:
 <div align="center">
-  
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  </div>
-
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  </div>
-
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  </div>
-
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  </div>
-
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  </div>
-
-  <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  </div>
-  
-
-  <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-   </div>
-   </div>
-
-<div align="center" >
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcm8793&show_icons=true&locale=en&layout=compact" alt="marcm8793" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcm8793&" alt="marcm8793" /></p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3 Badge" style="display: inline-block; margin-right: 10px; width: 100px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JS Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TS Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" alt="Ruby Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)" alt="Python Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="NextJS Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white" alt="React Hook Form Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)" alt="Linux Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" alt="Supabase Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white" alt="Firebase Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" alt="Prisma Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="Github" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+</div>
+
+
+
+# 📊 GitHub Stats:
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcm8793&theme=dark&hide_border=false"/></p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcm8793&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
+</div>
+
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/marc-mansour-1b938496/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <hr>
 <div align="center">  
