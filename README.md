@@ -4,45 +4,43 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3 Badge" style="display: inline-block; margin-right: 10px; width: 100px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JS Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TS Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" alt="Ruby Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)" alt="Python Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="NextJS Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white" alt="React Hook Form Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat-square" alt="Ruby Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;"> 
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=flat-square" alt="Ruby on Rails Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)" alt="Linux Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" alt="Supabase Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white" alt="Firebase Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" alt="Prisma Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat-square" alt="Prisma Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=flat-square" alt="Drizzle Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="Github" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square" alt="Vercel Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat-square" alt="Heroku Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat-square" alt="Netlify Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" alt="Visual Studio Code Badge" style="display: inline-block; margin-right: 10px; width: 100px; height: 35px;">
 </div>
 
 
